@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Contains two versions of game - single and two player. Made using HTML, CSS, and JavaScript
+It is the single player version of the game where the other player is the computer itself. Made using HTML, CSS, and JavaScript
